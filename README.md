@@ -9,8 +9,8 @@ My HP Probook variant does not have a dedicated GPU, and the trackpad is a littl
 
 
 ## My Specs
-HP Probook G4 440
-16GB RAM
-Intel HD 620
-Intel WiFi card (and probably why it has terrible network)
-Realtek Ethernet
+- HP Probook G4 440
+- 16GB RAM
+- Intel HD 620
+- Intel WiFi card (and probably why it has terrible network)
+- Realtek Ethernet
