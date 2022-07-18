@@ -6,3 +6,11 @@ These are OC config files for my HP ProBook, when I was working on Big Sur for M
 Again, if anything breaks, I will not be responsible. **Use it at your own risk.**
 
 My HP Probook variant does not have a dedicated GPU, and the trackpad is a little... wobbly. I haven't tested with Monterey, but given OC's reputation as a bootloader that is persistent and doesn't break as often, I wouldn't worry too much. Still, I'd recommend to do your research before you use anything and break your expensive machine!
+
+
+## My Specs
+HP Probook G4 440
+16GB RAM
+Intel HD 620
+Intel WiFi card (and probably why it has terrible network)
+Realtek Ethernet
